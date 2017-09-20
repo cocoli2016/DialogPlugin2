@@ -1,12 +1,16 @@
 {
   "name": "cordova",
-  "version": "0.0.1",
+  "version": "1.2.0",
   "description": "Description",
   "cordova": {
     "id": "cordova-plugin-dialog",
     "platforms": [
       "android"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cocoli2016/DialogPlugin2"
   },
   "keywords": [
     "ecosystem:cordova",
