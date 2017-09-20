@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="cordova-plugin-dialog" version="0.0.1">
+    id="cordova-plugin-dialog" version="1.0.0">
     <name>DialogPlugin</name>
     <description>Description</description>
     <js-module name="CustomDialog" src="www/dialog.js">
