@@ -8,10 +8,6 @@
       "android"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cocoli2016/DialogPlugin2"
-  },
   "keywords": [
     "ecosystem:cordova",
     "cordova-android"
