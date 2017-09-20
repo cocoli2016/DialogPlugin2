@@ -1,0 +1,17 @@
+{
+  "name": "cordova",
+  "version": "0.0.1",
+  "description": "Description",
+  "cordova": {
+    "id": "cordova-plugin-dialog",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
